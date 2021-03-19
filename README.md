@@ -1,4 +1,4 @@
-# java-getting-started
+# Twitter CBUS News Bot
 
 Java appplication
 Eclipse IDE
