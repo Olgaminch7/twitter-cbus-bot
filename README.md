@@ -1,8 +1,8 @@
 # Twitter CBUS News Bot
 
-Java appplication
-Eclipse IDE
-Deployed to Heroku
+1. Java appplication
+2. Eclipse IDE
+3. Deployed to Heroku
 
 ## Running Locally
 Install the [Heroku CLI](https://cli.heroku.com/)
